@@ -30,6 +30,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/36827
 description: 'First published in 1902 with title "Social Germany in Luther''s time:
   being the memoirs of Bartholomew Sastrow."'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33891#Bartholomew-SastrowBeing-the-Memoirs-of-a-German-Burgomaster
 gutenberg_issued: '2010-10-29'
 gutenberg_type: Text
 identifiers:
