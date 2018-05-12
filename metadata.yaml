@@ -1,0 +1,47 @@
+_repo: Bartholomew-SastrowBeing-the-Memoirs-of-a-German-Burgomaster_33891
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Fisher, H. A. L. (Herbert Albert Laurens)
+    alias: Fisher, Herbert Albert Laurens
+    birthdate: 1865
+    deathdate: 1940
+    gutenberg_agent_id: '36431'
+    url: http://www.gutenberg.org/2009/agents/36431
+  translator:
+    agent_name: Vandam, Albert D. (Albert Dresden)
+    alias: Vandam, Albert Dresden
+    birthdate: 1843
+    deathdate: 1903
+    gutenberg_agent_id: '35797'
+    url: http://www.gutenberg.org/2009/agents/35797
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sastrow, Bartholomäus
+    aliases:
+    - Sastrow, Bartholomew
+    - Sastrow, Bartholomaus
+    birthdate: 1520
+    deathdate: 1603
+    gutenberg_agent_id: '36827'
+    url: http://www.gutenberg.org/2009/agents/36827
+description: 'First published in 1902 with title "Social Germany in Luther''s time:
+  being the memoirs of Bartholomew Sastrow."'
+gutenberg_issued: '2010-10-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33891'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Germany -- History -- Charles V, 1519-1556'
+- !lcsh 'Reformation -- Germany'
+- !lcsh 'Germany -- Social life and customs'
+- !lcc 'DD'
+title: 'Bartholomew Sastrow: Being the Memoirs of a German Burgomaster'
+url: http://www.gutenberg.org/ebooks/33891
